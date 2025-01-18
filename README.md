@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://vijayprajapati.hashnode.dev/](https://vijayprajapati.hashnode.dev/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **WEB DEVELOPMENT**
 
 - 📫 How to reach me **vkprajapati072@gmail.com**
 

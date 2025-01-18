@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vijayk_360" target="blank"><img src="https://img.shields.io/twitter/follow/vijayk_360?logo=twitter&style=for-the-badge" alt="vijayk_360" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React **
 
 - 📝 I regularly write articles on [https://vijayprajapati.hashnode.dev/](https://vijayprajapati.hashnode.dev/)
 

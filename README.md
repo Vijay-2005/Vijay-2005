@@ -1,43 +1,82 @@
-<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="code">
-<h1 align="center">Hi 👋, I'm Vijay Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="code">
+<h1 align="center">Hey there! 👋 I'm Vijay Prajapati</h1>
+<h3 align="center">Front-End Developer | React Enthusiast | Tech Writer</h3>
 
-
-<p align="left"> <a href="https://twitter.com/vijayk_360" target="blank"><img src="https://img.shields.io/twitter/follow/vijayk_360?logo=twitter&style=for-the-badge" alt="vijayk_360" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 📝 I regularly write articles on [https://vijayprajapati.hashnode.dev/](https://vijayprajapati.hashnode.dev/)
-
-- 💬 Ask me about **WEB DEVELOPMENT**
-
-- 📫 How to reach me **vkprajapati072@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vijayk_360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijayk_360" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vijay-prajapati-2a327a255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-prajapati-2a327a255" height="30" width="40" /></a>
-<a href="https://hashnode.com/vijayprajapati.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vijayprajapati.hashnode.dev" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/vijayk_360">
+    <img src="https://img.shields.io/twitter/follow/vijayk_360?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://vijayprajapati.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode" alt="Hashnode" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="react" width="40" height="40"/> </a> </p>
+<img align="right" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding animation">
 
-<h3 align="center">Support:</h3>
+## 💫 About Me
+
+- 🚀 Frontend developer passionate about creating intuitive user experiences
+- 🌱 Currently mastering **React** and exploring the JavaScript ecosystem
+- ✍️ Tech blogger sharing my journey and insights on [Hashnode](https://vijayprajapati.hashnode.dev/)
+- 🎯 Goal: Building accessible and responsive web applications that solve real problems
+- 💬 Let's talk about **Web Development, UI/UX, or JavaScript**
+- 📫 Reach me at: **vkprajapati072@gmail.com**
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijay-2005&show_icons=true&theme=tokyonight" alt="Vijay's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-2005&theme=tokyonight" alt="Vijay's GitHub streak" />
+</p>
+
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will be automatically updated with your latest blog posts using GitHub Actions -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/vijayk_360">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/vijay-prajapati-2a327a255">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://vijayprajapati.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+</p>
+
+## ☕ Support My Work
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/vijayk_360">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
-<br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay-2005&show_icons=true&locale=en" alt="vijay-2005" />
-</p>
+---
 
-
-<p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-2005&" alt="vijay-2005" />
-</p>
-
+<p align="center">Thanks for visiting my profile! Feel free to check out my repositories and don't hesitate to reach out for collaborations or just a friendly chat.</p>

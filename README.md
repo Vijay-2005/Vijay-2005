@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-2005&theme=tokyonight" alt="Vijay's GitHub streak" />
+
 </p>
 
 ## ✍️ Latest Blog Posts

@@ -14,12 +14,12 @@
 
 ## 💫 About Me
 - 🚀 Full-Stack developer passionate about creating intuitive user experiences
-- 🌱 Currently mastering **Spring Boot** and exploring the Java ecosystem
+- 🌱 Currently mastering **React** and exploring the JavaScript ecosystem
 - 💻 Working on personal projects to sharpen my development skills
 - ✍️ Tech blogger sharing my journey and insights on [Hashnode](https://vijayprajapati.hashnode.dev/)
 - 🎯 Goal: Building accessible and responsive web applications that solve real problems
 - 🔧 Experienced with both front-end technologies and back-end development
-- 🔌 Knowledge of low-level programming and embedded systems
+- 🔌 Knowledge of low-level programming, embedded systems, and scientific computing
 - 💬 Let's talk about **Web Development, UI/UX, JavaScript, or Spring Boot**
 - 📫 Reach me at: **vkprajapati072@gmail.com**
 - ⚡ Fun fact: I enjoy hiking and experimenting with new cooking recipes in my free time
@@ -52,11 +52,22 @@
   ![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-8B4513?style=for-the-badge&logo=v&logoColor=white)
   ![Embedded Systems](https://img.shields.io/badge/Embedded-DD0031?style=for-the-badge&logo=chip&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![Keil µVision](https://img.shields.io/badge/Keil_µVision-1769FF?style=for-the-badge&logo=arm&logoColor=white)
+  ![LTspice](https://img.shields.io/badge/LTspice-8A0707?style=for-the-badge&logo=analog-devices&logoColor=white)
+  ![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-654FF0?style=for-the-badge&logo=cadence&logoColor=white)
+  
+  ### Scientific Computing
+  
+  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+  ![Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
+  ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black)
   
   ### Tools & Platforms
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Vivado](https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </div>

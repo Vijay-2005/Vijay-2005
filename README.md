@@ -5,18 +5,21 @@
 
   [![Twitter Follow](https://img.shields.io/twitter/follow/vijayk_360?logo=twitter&style=for-the-badge)](https://twitter.com/vijayk_360)
   [![Hashnode Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode)](https://vijayprajapati.hashnode.dev/)
-
+  [![GitHub followers](https://img.shields.io/github/followers/vijay-2005?logo=github&style=for-the-badge)](https://github.com/vijay-2005)
+  
+  <img src="https://komarev.com/ghpvc/?username=vijay-2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding animation">
 
 ## 💫 About Me
 - 🚀 Full-Stack developer passionate about creating intuitive user experiences
-- 🌱 Currently mastering **React** and exploring the JavaScript ecosystem
+- 🌱 Currently mastering **Spring Boot** and exploring the Java ecosystem
 - 💻 Working on personal projects to sharpen my development skills
 - ✍️ Tech blogger sharing my journey and insights on [Hashnode](https://vijayprajapati.hashnode.dev/)
 - 🎯 Goal: Building accessible and responsive web applications that solve real problems
 - 🔧 Experienced with both front-end technologies and back-end development
+- 🔌 Knowledge of low-level programming and embedded systems
 - 💬 Let's talk about **Web Development, UI/UX, JavaScript, or Spring Boot**
 - 📫 Reach me at: **vkprajapati072@gmail.com**
 - ⚡ Fun fact: I enjoy hiking and experimenting with new cooking recipes in my free time
@@ -32,20 +35,29 @@
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   
   ### Back-End & Others
   
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  
+  ### Low-Level & Embedded Systems
+  
+  ![Assembly](https://img.shields.io/badge/Assembly-0000FF?style=for-the-badge&logo=assemblyscript&logoColor=white)
+  ![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-8B4513?style=for-the-badge&logo=v&logoColor=white)
+  ![Embedded Systems](https://img.shields.io/badge/Embedded-DD0031?style=for-the-badge&logo=chip&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   
   ### Tools & Platforms
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </div>
 

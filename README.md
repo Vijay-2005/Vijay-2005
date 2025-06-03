@@ -14,13 +14,13 @@
 
 ## 💫 About Me
 - 🚀 Full-Stack developer passionate about creating intuitive user experiences
-- 🌱 Currently mastering **React** and exploring the JavaScript ecosystem
+- 🌱 Currently mastering **Python** and **Agentic AI**
 - 💻 Working on personal projects to sharpen my development skills
 - ✍️ Tech blogger sharing my journey and insights on [Hashnode](https://vijayprajapati.hashnode.dev/)
 - 🎯 Goal: Building accessible and responsive web applications that solve real problems
 - 🔧 Experienced with both front-end technologies and back-end development
 - 🔌 Knowledge of low-level programming, embedded systems, and scientific computing
-- 💬 Let's talk about **Web Development, UI/UX, JavaScript, or Spring Boot**
+- 💬 Let's talk about **Web Development, UI/UX, Python, or Spring Boot**
 - 📫 Reach me at: **vkprajapati072@gmail.com**
 - ⚡ Fun fact: I enjoy hiking and experimenting with new cooking recipes in my free time
 

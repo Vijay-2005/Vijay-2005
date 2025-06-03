@@ -110,7 +110,7 @@ Check out my blog for the latest articles: [https://vijayprajapati.hashnode.dev/
 2024 - Focused on mastering React
 2024 - Started blogging about my tech journey
 2025 - Exploring backend development with Spring Boot
-2025 - Working on AI integration with applications
+2025 - Working on AI integration with applications and AI agents development 
 ```
 
 ## 🤝 Connect With Me

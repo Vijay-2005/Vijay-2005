@@ -17,7 +17,7 @@
 
 ## 💫 About Me
 - 🤖 Software Engineer specializing in **Agentic AI** and system architecture
-- 🔬 Research experience in **Deep Learning** at Samsung, impacting 60M+ users
+- 🔬 Research experience in **Deep Learning** at Samsung.
 - 🚀 Currently working as **Applied ML Intern** at Hyperbots, building LangGraph AI agents
 - 🛠️ Expert in designing stateful, multi-tool orchestration systems with **Model Context Protocol (MCP)**
 - 📝 Published researcher with accepted paper in **IEEE-CSITSS** on Multi-MCP AI Agents

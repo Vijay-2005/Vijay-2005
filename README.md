@@ -84,21 +84,7 @@
 *IEEE-CSITSS Conference (Accepted, To be Published)*  
 Research on optimizing context management in multi-agent AI systems using Model Context Protocol
 
-## 💼 Professional Experience
 
-### 🤖 Applied ML Intern @ Hyperbots (June 2025 - Present)
-- Developed ML-driven data exchange workflows for LangGraph AI agents with 150+ integrations
-- Designed custom MCP client for seamless agent-to-agent data movement
-- Containerized and deployed MCP servers on Azure using Docker
-
-### 📊 Data Annotation Expert @ Alignerr (Feb 2025 - June 2025)
-- Annotated 200+ AI-generated code snippets for correctness and security
-- Evaluated 150+ AI responses for quality and factual accuracy
-
-### 🧠 Research Intern @ Samsung (Jul 2024 - Feb 2025)
-- Designed conditional GAN (cGAN) for realistic noise/grain generation
-- Optimized 30GB dataset processing pipeline for deep learning training
-- Research expected to impact 60M+ Samsung users
 
 ## 📊 GitHub Stats
 
@@ -117,50 +103,9 @@ Research on optimizing context management in multi-agent AI systems using Model 
 
 
 
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated with your latest blog posts using GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
-
-Check out my blog for the latest articles: [https://vijayprajapati.hashnode.dev/](https://vijayprajapati.hashnode.dev/)
-
-## 📌 My Coding Journey
-```
-2022 - Started B.E. in Electronics and Communication Engineering at RVCE
-2023 - Built foundation in web development with HTML, CSS, JavaScript, and React
-2024 - Joined Samsung as Research Intern, focused on Deep Learning and GANs
-2025 - Specialized in Agentic AI, LangGraph, and Model Context Protocol
-2025 - Published research on Multi-MCP AI Agents in IEEE conference
-2025 - Currently building production AI agent systems at Hyperbots
-```
-
-## 🤝 Connect With Me
-<div align="center">
-  <a href="https://www.vijay.software">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/vijayk360">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/vijayk_360">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://vijayprajapati.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
-  </a>
-  <a href="https://github.com/vijay-2005">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
 
 <div align="center">
   <p>Thanks for visiting my profile! Interested in collaborating on Agentic AI projects or discussing ML systems? Feel free to reach out!</p>
   
-  ![Wave Animation](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Wave.gif)
+  
 </div>

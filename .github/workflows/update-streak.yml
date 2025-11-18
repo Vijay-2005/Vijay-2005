@@ -1,0 +1,34 @@
+name: Update Streak Image (IST midnight)
+on:
+  schedule:
+    - cron: '30 18 * * *'  # daily at 00:00 IST
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Ensure assets dir
+        run: mkdir -p assets
+
+      - name: Download streak image (fail if cannot download)
+        run: |
+          curl -fL "https://streak-stats.demolab.com/?user=vijay-2005&theme=tokyonight" -o assets/streak.svg
+          echo "Downloaded $(wc -c < assets/streak.svg) bytes"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet --exit-code -- assets/streak.svg; then
+            git add assets/streak.svg
+            git commit -m "chore: update streak image"
+            git push
+          else
+            echo "No change in image"
+          fi

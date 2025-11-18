@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/streak.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}

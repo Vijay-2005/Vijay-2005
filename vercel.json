@@ -1,7 +1,7 @@
 {
   "functions": {
-    "api/streak.js": {
-      "runtime": "nodejs20.x"
+    "api/**/*.js": {
+      "maxDuration": 10
     }
   }
 }

@@ -90,7 +90,7 @@ Research on optimizing context management in multi-agent AI systems using Model 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijay-2005&show_icons=true&theme=tokyonight" alt="Vijay's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=vijay-2005&theme=tokyonight" alt="Vijay's streak stats" />
+  <img src="https://vijay-2005.vercel.app/api/streak" alt="Vijay's streak stats" />
 </div>
 
 <div align="center">

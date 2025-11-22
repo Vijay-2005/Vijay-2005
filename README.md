@@ -80,7 +80,7 @@
 
 ## 🔬 Research & Publications
 
-**Mitigating Context-Window Constraints in Multi-MCP AI Agents**  
+**Scaling Multi-MCP AI Agents Beyond Context Limits**  
 *IEEE-CSITSS Conference (Accepted, To be Published)*  
 Research on optimizing context management in multi-agent AI systems using Model Context Protocol
 

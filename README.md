@@ -125,7 +125,7 @@ Research on optimizing context management in multi-agent AI systems using Model 
 
 <div align="center">
   <img src="https://github-readme-stats-nu-five-42.vercel.app/api?username=vijay-2005&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://vijay-2005.vercel.app/api/streak"  alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats-git-main-vijay-2005s-projects.vercel.app/api?user=vijay-2005&theme=tokyonight"  alt="GitHub streak stats" />
 </div>
 
 <div align="center">

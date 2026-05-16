@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/vijayk_360?logo=twitter&style=for-the-badge)](https://twitter.com/vijayk_360)
 [![Hashnode Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode)](https://vijayprajapati.hashnode.dev/)
 [![GitHub followers](https://img.shields.io/github/followers/vijay-2005?logo=github&style=for-the-badge)](https://github.com/vijay-2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vijay.software-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vijay.software)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vijay.software-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vijayprajapati.vercel.app/home)
 
 <img src="https://komarev.com/ghpvc/?username=vijay-2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 

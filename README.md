@@ -1,135 +1,149 @@
 <div align="center">
-  
-# Hey there! 👋 I'm Vijay Prajapati
 
-### AI Full Stack Developer | ML Engineer | Agentic AI Specialist
+# Hi 👋 I'm Vijay Kumar Prajapati
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/vijayk_360?logo=twitter&style=for-the-badge)](https://twitter.com/vijayk_360)
-[![Hashnode Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode)](https://vijayprajapati.hashnode.dev/)
-[![GitHub followers](https://img.shields.io/github/followers/vijay-2005?logo=github&style=for-the-badge)](https://github.com/vijay-2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vijay.software-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vijayprajapati.vercel.app/home)
+### Silicon Engineer | RTL Design | Computer Architecture | Power & Performance Engineering
 
-<img src="https://komarev.com/ghpvc/?username=vijay-2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+[![GitHub followers](https://img.shields.io/github/followers/Vijay-2005?style=for-the-badge&logo=github)](https://github.com/Vijay-2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay_Prajapati-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vijayprajapatii)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vijay.software-success?style=for-the-badge&logo=google-chrome)](https://vijay.software)
 
-</div>
-
-<img align="right" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding animation">
-
-## 💫 About Me
-- 💻 **AI Full Stack Developer** building intelligent applications with React, Spring Boot, and ML integrations
-- 🤖 Specialized in **AI-powered web applications** using LangChain, OpenAI API, and Gemini API
-- 🏗️ Experienced in architecting **end-to-end AI solutions** with modern full-stack technologies
-- 🔬 Research background in **Deep Learning** at Samsung, working with GANs and computer vision
-- 🚀 Currently at **Hyperbots** building scalable AI agent systems with LangGraph (150+ integrations)
-- 🛠️ Expert in **TypeScript, React, Spring Boot, PostgreSQL** with AI/ML pipeline integration
-- 📝 Published researcher in **IEEE-CSITSS** on Multi-MCP AI Agents
-- 🎯 Goal: Creating production-ready AI applications that solve real-world problems at scale
-- 💬 Let's talk about **Full Stack Development, AI Integration, System Design, or Generative AI**
-- 📫 Reach me at: **vijaykumarrvce26@gmail.com**
-- ⚡ Fun fact: I enjoy hiking and experimenting with new cooking recipes in my free time
-
-## 🛠️ Tech Stack
-<div align="center">
-
-  ### Front-End Development
-  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-  ### Back-End Development
-  
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-  
-  ### Databases & Storage
-  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-  ### AI/ML & Integration
-  
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-  ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
-  ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Model Context Protocol](https://img.shields.io/badge/MCP-4A90E2?style=for-the-badge&logo=protocol&logoColor=white)
-  
-  ### DevOps & Cloud
-  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-  
-  ### APIs & Tools
-  
-  ![OAuth](https://img.shields.io/badge/OAuth-3C873A?style=for-the-badge&logo=auth0&logoColor=white)
-  ![Google API](https://img.shields.io/badge/Google_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=Vijay-2005&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
-## 🚀 Featured Projects
+---
 
-### [Freshcart - AI-Powered Grocery Platform](link)
-**TypeScript • React • Spring Boot • PostgreSQL • Gemini API • Firebase**
-- Built full-stack grocery e-commerce platform with AI-powered natural language processing
-- Implemented NLP-driven input allowing users to add multiple items from single text prompt
-- Developed complete CRUD operations with Spring Boot backend and React frontend
-- Integrated real-time order management and Firebase authentication
+# 👨‍💻 About Me
 
-### [Silicon Synapse - AI Research Assistant](link)
-**React • Python • LangGraph • Docker • OpenAI API**
-- Developed full-stack AI agent platform showcasing intelligent services
-- Built research assistant automating multi-source data gathering (Wikipedia, Tavily, Google Serper)
-- Designed responsive React UI with seamless backend integration
-- [Live Demo](Link) | [Research Agent Repository](GitHub)
+- 🎓 Electronics and Communication Engineering Graduate from RV College of Engineering
+- 💼 Power & Performance Engineering Intern at Qualcomm
+- 🔬 Former Research Intern at Samsung Research
+- ❤️ Passionate about Computer Architecture, RTL Design, SoC Architecture and ASIC Design
+- 🖥️ Interested in AI Accelerators, Processor Design, Digital Systems and Embedded Computing
+- 📖 IEEE Published Author
+- 🌱 Currently exploring SystemVerilog, Design Verification and Hardware Accelerators
 
-### [Google Workspace MCP Integration](link)
-**Python • Model Context Protocol • Google APIs • OAuth**
-- Created unified integration server for Gmail, Drive, Docs, Tasks, and Calendar
-- Built RESTful API endpoints with OAuth 2.0 authentication
-- Designed scalable architecture for enterprise workspace management
+---
 
-## 🏢 Professional Experience
+# 🛠 Technical Skills
 
-**Applied ML Intern** @ Hyperbots | *June 2025 – Oct 2025*
-- Architected ML-driven workflows for LangGraph AI agent with 150+ integrations
-- Developed custom Model Context Protocol client for streamlined data exchange
-- Containerized MCP servers with Docker on Azure for improved scalability
+## Languages
 
-**Research Intern - Deep Learning** @ Samsung | *Jul 2024 – Feb 2025*
-- Designed conditional GAN for realistic noise generation impacting 60M+ users
-- Optimized data pipeline for 30 GB dataset, improving training I/O throughput
-- Validated model outputs using quantitative metrics (SSIM/PSNR)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-6A1B9A?style=for-the-badge)
 
-## 🔬 Research & Publications
+---
 
-**Scaling Multi-MCP AI Agents Beyond Context Limits**  
-*IEEE-CSITSS Conference (Accepted, To be Published)*  
-Research on optimizing context management in multi-agent AI systems using Model Context Protocol
+## Hardware & Computer Architecture
 
-## 📊 GitHub Stats
+![RTL](https://img.shields.io/badge/RTL_Design-blue?style=for-the-badge)
+![SoC](https://img.shields.io/badge/SoC_Architecture-green?style=for-the-badge)
+![ASIC](https://img.shields.io/badge/ASIC_Design-red?style=for-the-badge)
+![FSM](https://img.shields.io/badge/FSM-orange?style=for-the-badge)
+![Pipeline](https://img.shields.io/badge/Pipeline_Design-purple?style=for-the-badge)
+![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-grey?style=for-the-badge)
+![Cache Memory](https://img.shields.io/badge/Cache_Memory-blue?style=for-the-badge)
+![Design Verification](https://img.shields.io/badge/Design_Verification-darkgreen?style=for-the-badge)
+
+---
+
+## Tools
+
+![Vivado](https://img.shields.io/badge/Vivado-red?style=for-the-badge)
+![ModelSim](https://img.shields.io/badge/ModelSim-blue?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+
+
+# 💼 Experience
+
+## Qualcomm
+
+**Power & Performance Engineering Intern**
+
+- Characterized performance of NPU/DSP workloads.
+- Profiled latency, throughput and execution efficiency.
+- Automated workload analysis using Python.
+- Worked with architecture teams on silicon performance optimization.
+
+---
+
+## Samsung Research
+
+**Research Intern**
+
+- Developed Computer Vision algorithms using Conditional GANs.
+- Optimized image processing pipelines.
+- Evaluated image quality using SSIM and PSNR.
+
+---
+
+## Hyperbots
+
+**Applied ML Intern**
+
+- Developed backend automation workflows.
+- Built scalable data processing pipelines.
+- Automated enterprise integrations using Python.
+
+---
+
+# 📚 Publication
+
+### Scaling Multi-MCP AI Agents Beyond Context Limits
+
+📄 IEEE-CSITSS 2025
+
+---
+
+---
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-nu-five-42.vercel.app/api?username=vijayPrajapatii&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats-rust-nine.vercel.app/api?user=vijayPrajapatii&theme=tokyonight"  alt="GitHub streak stats" />
+
+<img height="170" alt="GitHub Stats"
+src="https://github-readme-stats-nu-five-42.vercel.app/api?username=vijayPrajapatii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" alt="Top Languages"
+src="https://github-readme-stats-nu-five-42.vercel.app/api/top-langs/?username=vijayPrajapatii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-nu-five-42.vercel.app/api/top-langs/?username=vijayPrajapatii&layout=compact&theme=tokyonight" />
+
+<img alt="GitHub Streak"
+src="https://github-readme-streak-stats-rust-nine.vercel.app/api?user=vijayPrajapatii&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vijayprajapatii">
+<img src="https://img.shields.io/badge/LinkedIn-Vijay%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vijapraj@qti.qualcomm.com">
+<img src="https://img.shields.io/badge/Email-vijapraj%40qti.qualcomm.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vijayPrajapatii">
+<img src="https://img.shields.io/badge/GitHub-vijayPrajapatii-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 

@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Vijay-2005?style=for-the-badge&logo=github)](https://github.com/Vijay-2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay_Prajapati-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vijayprajapatii)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vijay.software-success?style=for-the-badge&logo=google-chrome)](https://vijay.software)
+
 
 <img src="https://komarev.com/ghpvc/?username=Vijay-2005&label=Profile%20Views&color=0e75b6&style=flat" />
 
